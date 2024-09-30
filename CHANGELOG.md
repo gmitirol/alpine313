@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.0.8] - 2024-09-30
 - Update Alpine packages
+- Update docker images used for build
 
 ## [1.0.7] - 2022-04-26
 - Update Alpine packages
